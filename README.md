@@ -23,6 +23,7 @@ https://expo.dev/@yui.nakada/react-glsl-template?serviceType=classic&distributio
 ```
 #ncu
 #ncu -u
+#npx expo install --fix
 yarn
 yarn web
 make
